@@ -1,4 +1,4 @@
-# Ecommerce RESTAPI
+# Ecommerce Backend
 
 ## techstack
 - nodeJs
